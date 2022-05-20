@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School Year 2021-2022 Grade System", "School Year 2021-2022 Grade System\School Year 2021-2022 Grade System.csproj", "{D641A2B1-8F76-44CC-9EA5-87803636C1E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D641A2B1-8F76-44CC-9EA5-87803636C1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D641A2B1-8F76-44CC-9EA5-87803636C1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D641A2B1-8F76-44CC-9EA5-87803636C1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D641A2B1-8F76-44CC-9EA5-87803636C1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA7F8E6-8A03-488A-BDF5-C3BC9262B126}
+	EndGlobalSection
+EndGlobal
